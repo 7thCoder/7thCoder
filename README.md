@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7thCoder
+- 👋 Hi, I’m @7NuibimArnold
 - 👀 I’m interested in Creating
 - 🌱 I’m currently learning WedDev
 - 💞️ I’m looking to collaborate on Any projects
