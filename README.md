@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7thCoder
 - 👀 I’m interested in Creating
-- 🌱 I’m currently learning WedDev
+- 🌱 I’m an aspiring Full stack  engineer
 - 💞️ I’m looking to collaborate on Any projects
 - 📫 How to reach me nuibima@gmail.com
 
