@@ -2,8 +2,8 @@
 - 👀 I’m interested in Creating
 - 🌱 I’m an aspiring Full stack  engineer
 - 💞️ I’m looking to collaborate on Any projects
-- Dice is not a game of luck
-- 📫 How to reach me nuibima@gmail.com
+- 📫 Dice is not a game of luck
+- How to reach me nuibima@gmail.com
 
 
 <!---
