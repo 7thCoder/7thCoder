@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7thCoder
+- 👋 Hi, I’m @Nuibim Arnold
 - 👀 I’m interested in Creating
 - 🌱 I’m an aspiring Full stack  engineer
 - 💞️ I’m looking to collaborate on Any projects
